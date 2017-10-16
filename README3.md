@@ -1,5 +1,4 @@
 # ProgUzytkowe
-# NAGLOWEK
-__author__ = 'Mariusz Ruczynski'
-## Pierwsze uzycie Github'a
+# Gdzie?
+__Nigdy nie powiem__
 
