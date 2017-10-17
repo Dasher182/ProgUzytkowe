@@ -2,6 +2,6 @@
 # NAGLOWEK
 __author__ = 'Mariusz Ruczynski'
 ## Pierwsze uzycie Github'a
-# Trening
+# Trening 2.0
 #( ͡° ͜ʖ ͡°)
 
