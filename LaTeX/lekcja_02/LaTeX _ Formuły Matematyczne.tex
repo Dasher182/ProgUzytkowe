@@ -1,0 +1,89 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[MeX]{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{algorithmic}
+
+%opening
+\title{Wzory matematyczne}
+\author{Dasher}
+\date{24.10.2017}
+
+\begin{document}
+\maketitle
+
+Wykorzystanie formuł matematycznych w LaTeX
+
+\tableofcontents
+
+\section{Geneza}
+Matematycy od dawna potrzebowali urządzenia, które pozwoli im pisać skomplikowane wzory. Jedną z opcji został LateX.
+
+\section{Wzory}
+
+\begin{equation}
+\label{eg:lim}
+\lim_{n \to \infty}
+	\sum_{k=1}^n \frac{1}{k^2}
+		= \frac{\pi^2}{6}
+\end{equation}
+
+\begin{equation}
+\label{eg:prod}
+\prod_{i=2}^{n=i^2}
+	= \frac{\lim\limits_{n \to 4}{(1+\frac{1}{n})^n}}{\sum k(\frac{1}{n})}
+\end{equation}
+
+Łatwo równanie \ref{eg:lim} jest doprowadzić do \ref{eg:prod}
+
+\begin{equation}
+\label{eg:int}
+\int_{2}^{\infty} \frac{1}{\log_{2}x}dx= 
+	\frac{1}{x}\sin{x}=1-\cos^2{(x)}
+\end{equation}
+
+\begin{equation}
+\label{eg:array}
+\left[ \begin{array}{cccc}
+a_{11} & a_{12} & \ldots & a_{1K} \\
+a_{21} & a_{22} & \ldots & a_{2K} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{K1} & a_{K2} & \ldots & a_{KK} \\
+\end{array} \right]*
+\left[ \begin{array}{c}
+x_{1} \\
+x_{2} \\
+\vdots \\
+x_{K} \\
+\end{array} \right]=
+\left[ \begin{array}{c}
+b_{1} \\
+b_{2} \\
+\vdots \\
+b_{K} \\
+\end{array} \right]
+\end{equation}
+
+\begin{algorithmic}
+\STATE{Procedure}
+\STATE{Input data}
+\STATE{$A' \leftarrow \emptyset$}
+\STATE{$iter \leftarrow 0$}
+\FOR {i=1, 2, \dots, card\{A\}}
+\FOR {j=1, 2, \dots, k}
+\STATE{$S^{c_j}(a)=S_{i}^{c_j}(a)$}
+\IF {$a \not \in A'$}
+\item {$A' \leftarrow \ a$}
+\item {$itter \leftarrow itter+1$}
+\IF {$itter=fixed\ number\ of\ the\ best\ genes$}
+\item {BREAK}
+\ENDIF
+\ENDIF
+\ENDFOR
+\IF{$iter=fixed\ number\ of\ the\ best\ genes$}
+\item{BREAK}
+\ENDIF
+\ENDFOR
+\RETURN{$A'$}
+\end{algorithmic}
+
+\end{document}
