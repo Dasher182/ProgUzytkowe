@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2015.3.13)  24 OCT 2017 10:53
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2015.3.13)  24 OCT 2017 11:06
 entering extended mode
 **LaTeX*_*Formuły*Matematyczne.tex
 ("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_02\LaTeX _ Formuły Matematyczne.tex"
@@ -356,24 +356,36 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <8> on input line 23.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <6> on input line 23.
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \eqno 
+l.53 \end{equation}
+                   
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
 [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
  [2]
 ("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_02\LaTeX _ Formuły Matematyczne.aux") ) 
 Here is how much of TeX's memory you used:
- 910 strings out of 494046
- 11264 string characters out of 3145992
+ 911 strings out of 494046
+ 11269 string characters out of 3145992
  64456 words of memory out of 3000000
- 4219 multiletter control sequences out of 15000+200000
+ 4220 multiletter control sequences out of 15000+200000
  13357 words of font info for 39 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  23i,9n,24p,185b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on "LaTeX _ Formuły Matematyczne.dvi" (2 pages, 6300 bytes).
+Output written on "LaTeX _ Formuły Matematyczne.dvi" (2 pages, 6636 bytes).
