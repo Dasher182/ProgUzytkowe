@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2015.3.13)  24 OCT 2017 10:39
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2015.3.13)  24 OCT 2017 10:53
 entering extended mode
 **LaTeX*_*Formuły*Matematyczne.tex
 ("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_02\LaTeX _ Formuły Matematyczne.tex"
@@ -306,7 +306,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \ALC@tlm=\skip43
 \algorithmicindent=\skip44
 )
-No file LaTeX*_*Formuły*Matematyczne.aux.
+("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_02\LaTeX _ Formuły Matematyczne.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
@@ -322,6 +322,7 @@ LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Try loading font information for OML+plm on input line 12.
+
 (C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
@@ -342,7 +343,7 @@ LaTeX Font Info:    External font `plex10' loaded for size
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <7> on input line 12.
 
-No file LaTeX*_*Formuły*Matematyczne.toc.
+("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_02\LaTeX _ Formuły Matematyczne.toc")
 \tf@toc=\write3
 
 Overfull \hbox (0.15706pt too wide) in paragraph at lines 19--20
@@ -355,12 +356,6 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <8> on input line 23.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <6> on input line 23.
-
-LaTeX Warning: Reference `eg:lim' on page 1 undefined on input line 36.
-
-
-LaTeX Warning: Reference `eg:prod' on page 1 undefined on input line 36.
-
 [1
 
 ]
@@ -371,21 +366,14 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
  [2]
-("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_02\LaTeX _ Formuły Matematyczne.aux")
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_02\LaTeX _ Formuły Matematyczne.aux") ) 
 Here is how much of TeX's memory you used:
- 906 strings out of 494046
- 10976 string characters out of 3145992
+ 910 strings out of 494046
+ 11264 string characters out of 3145992
  64456 words of memory out of 3000000
  4219 multiletter control sequences out of 15000+200000
  13357 words of font info for 39 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  23i,9n,24p,185b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on "LaTeX _ Formuły Matematyczne.dvi" (2 pages, 6072 bytes).
+Output written on "LaTeX _ Formuły Matematyczne.dvi" (2 pages, 6300 bytes).
