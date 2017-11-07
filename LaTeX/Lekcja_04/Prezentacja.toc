@@ -1,0 +1,11 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Gnidosz blotny}{3}{0}{1}
+\beamer@sectionintoc {2}{Morfologia}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Lodyga}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Liscie}{5}{0}{2}
+\beamer@subsectionintoc {2}{3}{Kwiaty}{6}{0}{2}
+\beamer@subsectionintoc {2}{4}{Owoc}{7}{0}{2}
+\beamer@subsectionintoc {2}{5}{Korzen}{8}{0}{2}
+\beamer@sectionintoc {3}{Biologia i ekologia}{9}{0}{3}
+\beamer@sectionintoc {4}{Zmiennosc}{10}{0}{4}
+\beamer@sectionintoc {5}{Zagrozenia i ochrona}{11}{0}{5}
