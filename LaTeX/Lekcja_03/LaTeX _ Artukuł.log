@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.13)  31 OCT 2017 10:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.13)  31 OCT 2017 11:02
 entering extended mode
 **LaTeX*_*Artukuł.tex
 ("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_03\LaTeX _ Artukuł.tex"
@@ -321,7 +321,7 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-No file LaTeX*_*Artukuł.aux.
+("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_03\LaTeX _ Artukuł.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
@@ -336,6 +336,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
+
 (C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
@@ -383,27 +384,30 @@ LaTeX Font Info:    External font `plex10' loaded for size
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <6> on input line 32.
 
-No file LaTeX*_*Artukuł.toc.
+("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_03\LaTeX _ Artukuł.toc")
 \tf@toc=\write3
-No file LaTeX*_*Artukuł.lof.
+
+("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_03\LaTeX _ Artukuł.lof")
 \tf@lof=\write4
-No file LaTeX*_*Artukuł.lot.
+
+("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_03\LaTeX _ Artukuł.lot")
 \tf@lot=\write5
-[1{C:/Users/local/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Dasher/ProgUzytkowe/LaTeX/Lekcja_03/RaveenaTand
-on.jpg>] [2] ("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_03\LaTeX _ Artukuł.aux") ) 
+ [1{C:/Users/local/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Dasher/ProgUzytkowe/LaTeX/Lekcja_03/RaveenaTan
+don.jpg>] [2]
+("D:\Dasher\ProgUzytkowe\LaTeX\Lekcja_03\LaTeX _ Artukuł.aux") ) 
 Here is how much of TeX's memory you used:
- 1570 strings out of 494045
- 20207 string characters out of 3145969
- 71014 words of memory out of 3000000
+ 1578 strings out of 494045
+ 20679 string characters out of 3145969
+ 72014 words of memory out of 3000000
  4861 multiletter control sequences out of 15000+200000
  13100 words of font info for 38 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,7n,24p,228b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/local/AppData/Roaming/MiKTeX/2.9
-/fonts/enc/dvips/pl/plrm.enc}<C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/local
-/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/publi
-c/pl/plr17.pfb>
-Output written on "LaTeX _ Artukuł.pdf" (2 pages, 81705 bytes).
+{C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/enc/dv
+ips/pl/plrm.enc}<C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/local/AppData/Roam
+ing/MiKTeX/2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr17.pf
+b>
+Output written on "LaTeX _ Artukuł.pdf" (2 pages, 81879 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
