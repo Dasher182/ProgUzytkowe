@@ -1,0 +1,34 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[MeX]{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{algorithmic}
+\usepackage{amsfonts}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{texdraw}
+
+%Start
+\title{Rysunek}
+\author{Dasher}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\def\punkt(#1){\move(#1)\fcir f:0 r:0.075}
+\begin{texdraw}
+\textref h:C v:C \drawdim{cm} \linewd 0.03
+\punkt(0 0) \punkt(5 1) \punkt(1 3)
+\htext(-0.25 -0.25){$A$} \htext(5.25 1.25){$B$} \htext(1.25 3.25){$C$}
+\move(0 0) \lvec(1 3) \lvec(5 1) \lvec(0 0)
+\move(0 0) \lcir r:1 \move(5 1) \lcir r:1 \move(1 3) \fcir f:0.5 r:1
+\clvec(0 0)(0 0)(5 1)
+\end{texdraw}
+
+\begin{thebibliography}{2}
+\bibitem{ja} Ja tu pisałem
+\bibitem{ktos} Był tu ktoś jeszcze, ale nie pamiętam kto ;\_;
+\end{thebibliography}
+
+\end{document}
